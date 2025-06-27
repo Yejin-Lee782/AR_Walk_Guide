@@ -2,7 +2,8 @@
 
 0. OverView
    부산 내의 낙동강과 해양 근처의 산책 코스를 추천하고, GPS를 이용하여 근처 명소를 소개하며 AR 게임적 요소를 추가한 애플리케이션
-   ![image](https://github.com/user-attachments/assets/73fe8e84-d677-44be-8d19-43115cf7a599)
+ ![image](https://github.com/user-attachments/assets/56920bb6-b2c5-4219-bc75-0148520ebb48)
+
 
 ## IT 기획
 01. Menu structure
