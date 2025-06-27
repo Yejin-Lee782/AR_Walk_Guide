@@ -9,9 +9,9 @@
 01. Menu structure
    ![image](https://github.com/user-attachments/assets/64e7881e-68ad-4404-b2df-8b12ffc9a7cf)
 02. Task Flow
-   ![image](https://github.com/user-attachments/assets/56911089-a099-4b47-a486-c6d7cb5748d3)
-03. I.A | 정보구조도
    ![image](https://github.com/user-attachments/assets/090239ea-21be-420e-8b67-4135e5f20d45)
+03. I.A | 정보구조도
+   ![image](https://github.com/user-attachments/assets/0c3fc9d8-949e-47a5-8cad-d3254a3ff001)
 04. Wireframe
   ![image](https://github.com/user-attachments/assets/31e76fb8-5d22-41a2-b8b2-fecb8daaef99)
 
